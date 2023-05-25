@@ -1,0 +1,12 @@
+.vscode
+.DS_Store
+forSHA256/
+FrontEndForNote/
+node_modules/
+Project1/
+rps/
+Docs/
+hardhat-tutorial1/
+hardhat-tutorial2/
+
+
